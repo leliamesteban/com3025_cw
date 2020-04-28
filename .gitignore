@@ -1,3 +1,6 @@
 node_modules
 package-lock.json
 neutralinojs.log
+
+# Local Netlify folder
+.netlify
